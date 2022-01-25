@@ -1,2 +1,2 @@
-let variable= git;
- let cambios= cambios;
+let variable = git;
+let cambios = cambios;
